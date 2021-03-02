@@ -10,7 +10,7 @@ public class Algo {
 	 * find the 1st, 2nd, 3rd
 	 * count = sqrt(horses.length) + 2 = n + 2
 	 */
-	public static int print3Most(int[] horses) {
+	public static void print3Most(int[] horses) {
 		int n = (int) Math.sqrt(horses.length);
 		int[][] ans = new int[n][n];
 		int k = 0;
@@ -27,7 +27,8 @@ public class Algo {
 		System.out.println("1st - " + ans[n-1][n-1]);
 		System.out.println("2nd - " + cand[cand.length-1]);
 		System.out.println("3nd - " + cand[cand.length-2]);
-		return count;
+		System.out.println("The minimum number of races is: "+count);
+		//return count;
 	}
 
 	public static void race(int[] horses, int n) {
