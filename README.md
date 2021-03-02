@@ -1,2 +1,3 @@
 # algorithms1
-Implementation of algorithms studied in the course
+here you could find implementation of algorithms studied in the course. 
+
