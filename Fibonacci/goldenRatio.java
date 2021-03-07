@@ -42,18 +42,10 @@ public class goldenRatio {
         return (int) Math.round( goldenRecursive(n-1) * PHI);
     }
     
-    /**
-     * time : O(constant) = O(1)
-     * @param n an index in the fibonacci series
-     * @return the value in this index.
-     */
-    public static int binetFormula(int n) {
-        return (int) ((Math.pow(PHI, n) - Math.pow(-PHI, -n))/Math.sqrt(5));
-    }
+
 
     public static void main(String[] args) {
         System.out.println(goldenInduction(9));
         System.out.println(goldenRecursive(9));
-        System.out.println(binetFormula(9));
     }
 }
