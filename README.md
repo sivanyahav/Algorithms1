@@ -8,5 +8,6 @@ The problems:
  - [HorsesProblem](https://github.com/sivanyahav/algorithms1/tree/main/HorsesProblem)
  - [Fibonacci](https://github.com/sivanyahav/Algorithms1/tree/main/Fibonacci)
  - [LittleProblems](https://github.com/sivanyahav/Algorithms1/tree/main/LittleProblems)
+ - [Power](https://github.com/sivanyahav/Algorithms1/tree/main/Power)
 
 
