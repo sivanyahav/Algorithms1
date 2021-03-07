@@ -9,5 +9,6 @@ The problems:
  - [Fibonacci](https://github.com/sivanyahav/Algorithms1/tree/main/Fibonacci)
  - [LittleProblems](https://github.com/sivanyahav/Algorithms1/tree/main/LittleProblems)
  - [Power](https://github.com/sivanyahav/Algorithms1/tree/main/Power)
+ - [maxMax](https://github.com/sivanyahav/Algorithms1/tree/main/MaxMax)
 
 
