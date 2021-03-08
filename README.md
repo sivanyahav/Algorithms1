@@ -9,7 +9,7 @@ The problems:
  - [Fibonacci](https://github.com/sivanyahav/Algorithms1/tree/main/Fibonacci)
  - [LittleProblems](https://github.com/sivanyahav/Algorithms1/tree/main/LittleProblems)
  - [Power](https://github.com/sivanyahav/Algorithms1/tree/main/Power)
- - [maxMax](https://github.com/sivanyahav/Algorithms1/tree/main/MaxMax)
+ - [MaxMax](https://github.com/sivanyahav/Algorithms1/tree/main/MaxMax)
  - [Recursion_VS_Induction](https://github.com/sivanyahav/Algorithms1/tree/main/Recursion_VS_Induction)
 
 
