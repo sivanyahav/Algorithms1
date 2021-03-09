@@ -12,5 +12,6 @@ The problems:
  - [MaxMax](https://github.com/sivanyahav/Algorithms1/tree/main/MaxMax)
  - [Recursion_VS_Induction](https://github.com/sivanyahav/Algorithms1/tree/main/Recursion_VS_Induction)
  - [MinMax](https://github.com/sivanyahav/Algorithms1/tree/main/MinMax)
+ - [NumbersGame](https://github.com/sivanyahav/Algorithms1/tree/main/NumbersGame)
 
 
